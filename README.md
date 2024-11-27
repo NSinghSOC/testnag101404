@@ -2,3 +2,6 @@
 
 password = pass
 username = iamhere
+
+pasword = word
+user = admin
